@@ -1,0 +1,14 @@
+:root {
+    --color-white: white;
+    --color-fon: #2f303a;
+    --color-button: #2196f3;
+    --color-small-text: #757575;
+    --color-normal-text: #212121;
+}
+* {
+    content: "";    
+}
+
+.body {
+    font-family: "Inter";
+}
